@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:glowstone"
+  },
+  "result": "minecraft:shroomlight",
+  "experience": 10,
+  "cookingtime": 70
+}
