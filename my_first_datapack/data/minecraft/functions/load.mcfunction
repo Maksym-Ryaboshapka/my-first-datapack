@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"My_First_DataPack","bold":true,"italic":true,"color":"gold"},{"text":" successfully ","bold":true,"color":"green"},{"text":"loaded!","color":"dark_aqua"}]
